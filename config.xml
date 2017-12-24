@@ -33,7 +33,6 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
-    <plugin name="phonegap-plugin-barcodescanner">
-		<param name="CAMERA_USAGE_DESCRIPTION" value="To scan barcodes." />
+    <plugin name="cordova-plugin-barcodescanner">
 	</plugin>	
 </widget>
